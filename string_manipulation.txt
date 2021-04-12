@@ -1,0 +1,8 @@
+#problem
+Bangladesh is a small country. The population is about 190 million, about 85% of the population is Muslim. 
+The 26th March and 16th December are our Independence Day and Victory Day respectively. There are 
+eight divisions in Bangladesh.
+1. Print out the above paragraph.
+2. Make the whole paragraph both uppercase and lowercase.
+3. Convert any line of the above paragraph into a list.
+4. Replace all the ‘a’ in the paragraph with ‘w’.
