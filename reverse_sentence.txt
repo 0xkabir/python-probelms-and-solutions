@@ -1,0 +1,4 @@
+#problem
+1. Reverse a sentence containing ‘is’, but keep its meaning right.
+2. The first letter of the output should be uppercase.
+Example: if the user enters ‘Dhaka is my city’ as an input the output should be ‘My city is dhaka’
