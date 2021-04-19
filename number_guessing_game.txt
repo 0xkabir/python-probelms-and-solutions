@@ -1,0 +1,1 @@
+This program will select a number between 1-100 and ask the user to enter a number. when the user enters thee number, the program will respond acording to the user's entry. This program will run as soon as the user is able to enter the correct number.

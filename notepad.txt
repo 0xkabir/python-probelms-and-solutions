@@ -1,0 +1,1 @@
+This program will first ask the user to enter an action(either reading or writing). It then will respond accoring to the user's action. If the action is reading, it will read a text file if it exists in the directory. Also, it will write a text file if the action is writing.
